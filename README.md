@@ -6,3 +6,7 @@ In this project, I have analyzed the music playlist database and understand the 
 ## Database and Tools
 - Mysql
 
+Schema- Music Store Database
+
+
+![MusicDatabaseSchema](https://github.com/GitBhupesh/SQL_Music_Store_Analysis/assets/112238078/670f6f8c-dc08-457f-805f-6c682d2d4ad7)
